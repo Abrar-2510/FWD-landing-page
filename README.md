@@ -7,7 +7,7 @@ This is the first project **landing page**.
 # project title
 <p> landing page </p>
 
-# [Demo-Preview] (https://abrar-2510.github.io/FWD-landing-page/)
+# [Demo-Preview](https://abrar-2510.github.io/FWD-landing-page/)
 
 # Table of contents
 <ul>
